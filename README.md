@@ -5,7 +5,6 @@
 
   <li>Formado em Ciencias da Computação 🖥️</li>
 
-  <li>Analista de suporte🧑‍💼</li>
 </ul>
 
 - 🌱 Atualmente estou aprendendo:
