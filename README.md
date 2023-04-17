@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Henrique Queiroz
 
 <ul type='disc'>
-  <li>Desenvolvedor Front-End & Back-End 🖥️</li>
+  <li>Desenvolvedor Back-End aprendendo Front-End 🖥️</li>
 
   <li>Formado em Ciencias da Computação 🖥️</li>
 
